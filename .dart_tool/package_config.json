@@ -218,6 +218,24 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "firebase_performance",
+      "rootUri": "file:///C:/Users/CASTELL/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_performance-0.9.3+16",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_performance_platform_interface",
+      "rootUri": "file:///C:/Users/CASTELL/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_performance_platform_interface-0.1.4+24",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_performance_web",
+      "rootUri": "file:///C:/Users/CASTELL/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_performance_web-0.1.4+24",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "fixnum",
       "rootUri": "file:///C:/Users/CASTELL/AppData/Local/Pub/Cache/hosted/pub.dev/fixnum-1.1.0",
       "packageUri": "lib/",
@@ -872,7 +890,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-06-14T01:22:59.801753Z",
+  "generated": "2024-06-14T02:26:51.461663Z",
   "generator": "pub",
   "generatorVersion": "3.4.3",
   "flutterRoot": "file:///C:/Users/CASTELL/Documents/GitHub/FLUTTER%20FLOW/facelesskin/facelesskin/flutter",
